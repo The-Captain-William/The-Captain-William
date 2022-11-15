@@ -1,7 +1,7 @@
 <!-- BEGIN HEADER -->
 # 👨🏻‍💻 Hello! I'm Will
 
-### I'm a Data Engineer, a Programmer, and a Cartoonist!
+### Future Data Engineer!
 
 ---
 
@@ -67,7 +67,7 @@ I went back to take advanced mathematics courses and physics courses. I began to
 
 Fortunately, I was invited to come study at Grove School of Engineering in NYC, and I was fortunate enough to be awarded the opportunity to study Data Engineering with Per Scholas. 
 
-This marks the beginning of my journey as a programmer. It feels oddly familiar, coming back to my roots. I feel like I was meant to do this my entire life but just didn’t see it. I’m excited to begin learning new skills and developing the skillset I have so I can reach my vision of helping to reach as many people as possible and solving as many problems as possible, by developing the systems necessary that do just that.
+This marks the beginning of my journey as a programmer and data engineer. It feels oddly familiar, coming back to my roots. I feel like I was meant to do this my entire life but just didn’t see it. I’m excited to begin learning new skills and developing the skillset I have so I can reach my vision of helping to reach as many people as possible and solving as many problems as possible, by developing the systems necessary that do just that.
     
     
 
