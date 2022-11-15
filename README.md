@@ -7,6 +7,8 @@
 
 <!--PROJECTS WILL GO HERE-->
 ### Future Projects Here:
+
+<br />
 <!--  BEGIN SOCIALS -->
 ### 🤝🏻 Connect with me
 
