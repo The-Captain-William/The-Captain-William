@@ -52,7 +52,7 @@ Due to severe financial family struggles, I started working straight out of high
 
 ### Working as a Lead Technician and my original plan: become a healthcare worker
 ---
-I finally attended college in 2018 with an intention of pursuing a healthcare career. Either a physician or a pharmacist.
+I finally attended college in 2018 with an intention of pursuing a healthcare career as a pharmacist.
 
 I always did well in my classes, and by the time I gained my associates I also gained my Pharmacy Technician License, and I was promoted to Lead Pharmacy Technician in the community pharmacy where I work.
 
