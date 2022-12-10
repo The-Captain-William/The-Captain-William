@@ -1,16 +1,17 @@
 <!-- BEGIN HEADER -->
 # 👨🏻‍💻 Hello! I'm Will
+![Will](https://raw.githubusercontent.com/The-Captain-William/The-Captain-William/main/Hello%20world%201300%20x%20900%20.gif)
 
-### Future Data Engineer!
+ Future Data Engineer!
 
 ---
 
 <!--PROJECTS WILL GO HERE-->
-### Future Projects Here:
+## Future Projects Here:
 
 ---
 <!--  BEGIN SOCIALS -->
-### 🤝🏻 Connect with me
+## 🤝🏻 Connect with me
 
 [<img align="left" alt="Will's LinkedIn" width="48px" src="https://user-images.githubusercontent.com/112818936/199586826-0989fb4f-3ccb-41c4-9166-a426de0e692b.png"/>][linkedin]
 
@@ -19,11 +20,10 @@
 &nbsp;
 
 
-
 ---
 
 <!-- BEGIN LANGUAGES AND TOOLS -->
-### 🔧 Languages and Tools
+## 🔧 Languages and Tools
 
 <img align="left" alt="Python" width="48px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/112818936/199589230-6e69a456-ea44-4c29-ba75-d93af0170b8b.png" />
 <img align="left" alt="GitHub" width="48px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/112818936/199589079-3fe1a56d-03ea-4599-a830-554fbcd9e2bf.png" />
