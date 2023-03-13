@@ -1,37 +1,9 @@
 <!-- BEGIN HEADER -->
 # 👨🏻‍💻 Hello! I'm Will
-![Will](https://raw.githubusercontent.com/The-Captain-William/The-Captain-William/main/Hello%20world%201300%20x%20900%20.gif)
 
- Future Data Engineer!
-
----
-
-<!--PROJECTS WILL GO HERE-->
-## Future Projects Here:
-
----
-<!--  BEGIN SOCIALS -->
-## 🤝🏻 Connect with me
-
-[<img align="left" alt="Will's LinkedIn" width="48px" src="https://user-images.githubusercontent.com/112818936/199586826-0989fb4f-3ccb-41c4-9166-a426de0e692b.png"/>][linkedin]
-
-<br />
-
-&nbsp;
-
-
----
-
-<!-- BEGIN LANGUAGES AND TOOLS -->
-## 🔧 Languages and Tools
-
-<img align="left" alt="Python" width="48px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/112818936/199589230-6e69a456-ea44-4c29-ba75-d93af0170b8b.png" />
-<img align="left" alt="GitHub" width="48px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/112818936/199589079-3fe1a56d-03ea-4599-a830-554fbcd9e2bf.png" />
-<img align="left" alt="SQL" width="48px" style="padding-right:10px;" src="https://raw.githubusercontent.com/The-Captain-William/The-Captain-William/main/4248443.png" />
-<br />
-&nbsp;
-
----
+<div align="center">
+<img src="https://raw.githubusercontent.com/The-Captain-William/The-Captain-William/main/Hello%20world%201300%20x%20900%20.gif">
+</div>
 
 <!--STORY GOES HERE (TOGGLE MENU)-->
 <details>
@@ -64,15 +36,49 @@ I put off my bachelor's temporarily to work extra hours during the Covid 19 Pand
 
 This also gave me some time to think about what I really wanted to do. I learned that I enjoy engineering and mathematics much more than healthcare related topics. I also knew that I wanted to solve problems at large and provide as much value as possible. As a single individual I can only serve so many people. 
 
-### Deciding to become an Engineer, my acceptance into Grove and Per Scholas
+### Deciding to become an Engineer, and my acceptance at Per Scholas
 ---
 I went back to take advanced mathematics courses and physics courses. I began to consider my options as an Engineer. I also began to learn programming on my own. 
+I was invited to come study  Electrical Engineering at Grove School of Engineering in NYC, but opted to study Software Engineering at Western Governors University Instead.
 
-Fortunately, I was invited to come study at Grove School of Engineering in NYC, and I was fortunate enough to be awarded the opportunity to study Data Engineering with Per Scholas. 
+I was also fortunate enough to be awarded the opportunity to study Data Engineering with Per Scholas. 
 
 This marks the beginning of my journey as a programmer and data engineer. It feels oddly familiar, coming back to my roots. I feel like I was meant to do this my entire life but just didn’t see it. I’m excited to begin learning new skills and developing the skillset I have so I can reach my vision of helping to reach as many people as possible and solving as many problems as possible, by developing the systems necessary that do just that.
-    
-    
+</details>
 
+<!--PROJECTS WILL GO HERE-->
+## Current Projects:
+| Project Name| Project Summary|
+| ------------| --------------- |
+| <a href="https://github.com/The-Captain-William/Per-Scholas-Capstone/tree/main#per-scholas-data-engineering-bootcamp-capstone-project">Per Scholas Data Engineering Bootcamp Capstone Project</a> | Capstone Project from my Data Engineering Bootcamp Featuring an end-to-end ETL Process, and a front-end Interface built to abstract-away SQL queries|
+
+Other Projects in the works! 😉
+<br>
+&nbsp;
+
+
+<!-- BEGIN LANGUAGES AND TOOLS -->
+## 🔧 Languages and Tools
+
+<img align="left" alt="Python" width="48px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/112818936/199589230-6e69a456-ea44-4c29-ba75-d93af0170b8b.png" />
+<img align="left" alt="GitHub" width="48px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/112818936/199589079-3fe1a56d-03ea-4599-a830-554fbcd9e2bf.png" />
+<img align="left" alt="SQL" width="48px" style="padding-right:10px;" src="https://raw.githubusercontent.com/The-Captain-William/The-Captain-William/main/4248443.png" />
+<br>
+&nbsp;
+
+
+<!--  BEGIN SOCIALS -->
+## 🤝🏻 Connect with me
+
+[<img align="left" alt="Will's LinkedIn" width="48px" src="https://user-images.githubusercontent.com/112818936/199586826-0989fb4f-3ccb-41c4-9166-a426de0e692b.png"/>][linkedin]
+<br>
+&nbsp;
+
+
+
+
+
+
+    
 
 [linkedin]: https://www.linkedin.com/in/The-Captain-William/
