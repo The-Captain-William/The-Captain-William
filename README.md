@@ -38,8 +38,8 @@ This also gave me some time to think about what I really wanted to do. I learned
 
 ### Deciding to become an Engineer, and my acceptance at Per Scholas
 ---
-I went back to take advanced mathematics courses and physics courses. I began to consider my options as an Engineer. I also began to learn programming on my own. 
-I was invited to come study  Electrical Engineering at Grove School of Engineering in NYC, but opted to study Software Engineering at Western Governors University Instead.
+I went back to college to take advanced mathematics courses and physics courses. I began to consider my options as an Engineer. I also began to learn programming on my own. 
+I was invited to come study  Electrical Engineering at Grove School of Engineering in NYC, but opted to study Software Engineering at Western Governors University instead.
 
 I was also fortunate enough to be awarded the opportunity to study Data Engineering with Per Scholas. 
 
