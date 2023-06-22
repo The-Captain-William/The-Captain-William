@@ -52,11 +52,6 @@ I was also fortunate enough to be awarded the opportunity to study Data Engineer
 This marks the beginning of my journey as a programmer and data engineer. It feels oddly familiar, coming back to my roots. I feel like I was meant to do this my entire life but just didn’t see it. I’m excited to begin learning new skills and developing the skillset I have so I can reach my vision of helping to reach as many people as possible and solving as many problems as possible, by developing the systems necessary that do just that.
 </details>
 
-# Junior Software Engineer
-
-Welcome to my GitHub profile! I'm a passionate and ambitious junior software engineer with expertise in SQL and Python. I am dedicated to leveraging my skills and knowledge to create innovative software solutions and contribute to the success of dynamic projects. With a strong foundation in database management and programming, I strive to continuously learn and grow in the ever-evolving world of technology.
-
-With a diverse background as a Lead Certified Pharmacy Technician, I bring strong analytical and problem-solving skills to the table. I’m Seeking to join a dynamic team where I can contribute my technical expertise while fostering a positive and collaborative work environment.
 
 ## Skills 💪🏻
 <p align="left">
