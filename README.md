@@ -144,7 +144,7 @@ This marks the beginning of my journey as a programmer and data engineer. It fee
 
 ## Interests
 
-Apart from coding, I have a keen interest in staying up-to-date with the latest advancements in technology. I also love motorcycles, reading, lifting weights, and being outdoors. I also live Chinese culture and language, and I'm studying Mandarin Chinese with the goal of becoming fluent.
+Apart from coding, I have a keen interest in staying up-to-date with the latest advancements in technology. I also love motorcycles, reading, lifting weights, and being outdoors. I also love Chinese culture and language, and I'm studying Mandarin Chinese with the goal of becoming fluent.
 
 If you're looking for a highly motivated junior software engineer who is eager to learn, grow, and make a positive impact, I would love to connect with you. Let's collaborate and create something amazing together!
 
