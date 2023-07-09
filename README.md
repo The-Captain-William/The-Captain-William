@@ -154,7 +154,6 @@ Feel free to reach out to me through LinkedIn or explore my GitHub repositories 
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/the-captain-william/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/the-captain-william)
  
 
 
