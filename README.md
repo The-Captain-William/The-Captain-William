@@ -9,7 +9,7 @@
 
 Welcome to my GitHub profile! I'm a passionate and ambitious junior software engineer with expertise in SQL and Python. I am dedicated to leveraging my skills and knowledge to create innovative software solutions and contribute to the success of dynamic projects. With a strong foundation in database management and programming, I strive to continuously learn and grow in the ever-evolving world of technology.
 
-With a diverse background as a Lead Certified Pharmacy Technician, I bring strong analytical and problem-solving skills to the table. I’m Seeking to join a dynamic team where I can contribute my technical expertise while fostering a positive and collaborative work environment.
+
 
 <!--STORY GOES HERE (TOGGLE MENU)-->
 <details>
