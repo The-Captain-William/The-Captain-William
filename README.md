@@ -150,7 +150,6 @@ If you're looking for a highly motivated junior software engineer who is eager t
 
 Feel free to reach out to me through LinkedIn or explore my GitHub repositories for more details about my projects and code samples. Thank you for visiting my profile!
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=the-captain-william&show_icons=true&count_private=true&theme=dark)](https://github.com/The-Captain-William)
 
 
 ## Connect with me
