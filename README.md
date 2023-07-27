@@ -23,29 +23,29 @@ My intent was to try to develop my own “cracks” so I can play the full versi
 
 Of course, that was way beyond the scope of a beginner. I did discover, however, that I could open certain files with a text editor, and amongst the spaces, brackets, and equals signs I would later learn was known as <i>syntax</i> I would find integers or Boolean values, that if I edited, would have an effect on gameplay when I ran the game again. 
 
-In my teenage years I began to make mods for video games. I would develop new game maps, textures, and learned how to modify code with a simple text editor and no formal training on syntax. I managed to create some interesting mods for several games, however I never thought to become a programmer. 
+In my teenage years, I began to make mods for video games. I would develop new game maps, and textures, and learn how to modify code with a simple text editor and no formal training on syntax. I managed to create some interesting mods for several games, however, I never thought to become a programmer. 
 
 ### Overcoming financial struggles by God's grace and supporting my parents
 ---
-Due to severe financial family struggles, I started working straight out of high school. Some shifts would be grueling 12-, 14-, or 16-hour shifts back-to-back at various locations. Restaurants, retail outlets. Essentially whatever employment I could garner to help provide for myself and my parents. 
+Due to the severe financial struggles my family had, I started working straight out of high school. Some shifts would be grueling 12-, 14-, or 16-hour shifts back-to-back at various locations. Restaurants, retail outlets. Essentially whatever employment I could garner to help provide for myself and my parents. 
 
 ### Working as a Lead Technician and my original plan: become a healthcare worker
 ---
-I finally attended college in 2018 with an intention of pursuing a healthcare career as a pharmacist.
+I attended college in 2018 with the intention of pursuing a healthcare career as a pharmacist.
 
 I always did well in my classes, and by the time I gained my associates I also gained my Pharmacy Technician License, and I was promoted to Lead Pharmacy Technician in the community pharmacy where I work.
 
  
-### An A student changes his educational tradjectory
+### An A student changes his educational trajectory
 ---
 I put off my bachelor's temporarily to work extra hours during the Covid 19 Pandemic, serving at both my home pharmacy and other pharmacies in the NYC Queens district. 
 
-This also gave me some time to think about what I really wanted to do. I learned that I enjoy engineering and mathematics much more than healthcare related topics. I also knew that I wanted to solve problems at large and provide as much value as possible. As a single individual I can only serve so many people. 
+This also gave me some time to think about what I really wanted to do. I learned that I enjoy engineering and mathematics much more than healthcare-related topics (I studied Calculus 1, 2, and 3 in college, as well as calculus-based physics, and studied discrete mathematics in my own time). I also knew that I wanted to solve problems at large and provide as much value as possible. As a single individual, I can only serve so many people. 
 
-### Deciding to become an Engineer, and my acceptance at Per Scholas
+### Decided to become an Engineer and my acceptance at Per Scholas
 ---
 I went back to college to take advanced mathematics courses and physics courses. I began to consider my options as an Engineer. I also began to learn programming on my own. 
-I was invited to come study  Electrical Engineering at Grove School of Engineering in NYC, but opted to study Software Engineering at Western Governors University instead.
+I was invited to come to study  Electrical Engineering at Grove School of Engineering in NYC but opted to study Software Engineering at Western Governors University instead.
 
 I was also fortunate enough to be awarded the opportunity to study Data Engineering with Per Scholas. 
 
