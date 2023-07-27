@@ -40,7 +40,7 @@ I always did well in my classes, and by the time I gained my associates I also g
 ---
 I put off my bachelor's temporarily to work extra hours during the Covid 19 Pandemic, serving at both my home pharmacy and other pharmacies in the NYC Queens district. 
 
-This also gave me some time to think about what I really wanted to do. I learned that I enjoy engineering and mathematics much more than healthcare-related topics (I studied Calculus 1, 2, and 3 in college, as well as calculus-based physics, and studied discrete mathematics in my own time). I also knew that I wanted to solve problems at large and provide as much value as possible. As a single individual, I can only serve so many people. 
+This also gave me some time to think about what I really wanted to do. I learned that I enjoy engineering and mathematics much more than healthcare-related topics (I studied calculus 1, 2, and 3 in college, as well as calculus-based physics, and studied discrete mathematics in my own time). I also knew that I wanted to solve problems at large and provide as much value as possible. As a single individual, I can only serve so many people. 
 
 ### Decided to become an Engineer and my acceptance at Per Scholas
 ---
