@@ -1,13 +1,16 @@
 <!-- BEGIN HEADER -->
-# 👨🏻‍💻 Hello! I'm Will
-
+## 👨‍💻 Hello! I'm Will
 
 ![Hello World!](我%20是%20软%20件%20工%20程%20师.gif)
 
+Welcome to my profile! I'm a software engineer with a background in team mentorship, mathematics, and biology.
 
-# Junior Software Engineer
+### Technologies
 
-Welcome to my GitHub profile! I'm a passionate and ambitious junior software engineer with expertise in SQL and Python. I am dedicated to leveraging my skills and knowledge to create innovative software solutions and contribute to the success of dynamic projects. With a strong foundation in database management and programming, I strive to continuously learn and grow in the ever-evolving world of technology.
+| Back End                 | Front End                   | Database Management      | Cloud                                | Version Control          | Data Analysis           | Tools                             |
+|-------------------------|----------------------------|--------------------------|--------------------------------------|--------------------------|-------------------------|-----------------------------------|
+| ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL Badge](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sqlite&logoColor=white) ![Java Badge](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) | ![HTML Badge](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![XML Badge](https://img.shields.io/badge/-XML-00426C?style=flat&logo=xml&logoColor=white) | ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Oracle Badge](https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) | ![AWS Badge](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) | ![Git Badge](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![GitLab Badge](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&logoColor=black) | ![Pandas Badge](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy Badge](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Jupyter Badge](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white) ![PySpark Badge](https://img.shields.io/badge/-PySpark-E25A1C?style=flat&logo=apache-spark&logoColor=white) | ![VMware Badge](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white) ![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Ubuntu Badge](https://img.shields.io/badge/-Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![Bash Badge](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
+
 
 
 
@@ -53,78 +56,6 @@ This marks the beginning of my journey as a programmer and data engineer. It fee
 </details>
 
 
-## Skills 💪🏻
-<p align="left">
-<b>Languages:</b>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-</a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  
-</p>
-<p align="left">
-<b>Databases:</b>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" />
-  </a>
-</p>
-<p align="left">
-<b>Data Analysis:</b>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40" />
-  </a>
-</p>
-<p align="left">
-<b>Tools:</b>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  </a>
-</p>
-<p align="left">
-<b>Design:</b>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40" />
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40" />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40" />
-  </a>
-</p>
-
-## Currently Learning 🌱
-
-- **Programming Languages**: Java, Java-Script
-- **Concepts**: Machine Learning, NLP, Neural Networks, AI
 
 ## Projects ↗
 
