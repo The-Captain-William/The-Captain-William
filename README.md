@@ -70,6 +70,7 @@ This marks the beginning of my journey as a programmer and data engineer. It fee
 ## Education
 
 - Bachelor of Science in Software Engineering, Western Governors University. Expected Graduation: 2023
+- Associates in Science with an emphasis on biology, calculus (1-3), and calculus-based physics 
 - Relevant coursework: Data Structures, Algorithms, Database Management Systems, Software Engineering
 
 
