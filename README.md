@@ -1,5 +1,5 @@
 <!-- BEGIN HEADER -->
-# 👨‍💻 Hello! I'm Will
+# 👨🏻‍💻 Hello! I'm Will
 
 ![Hello World!](我%20是%20软%20件%20工%20程%20师.gif)
 
