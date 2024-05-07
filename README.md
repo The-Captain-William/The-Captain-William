@@ -1,15 +1,13 @@
 <!-- BEGIN HEADER -->
-# 👨🏻‍💻 Hello! I'm Will
-
-![Hello World!](我%20是%20软%20件%20工%20程%20师.gif)
-
-
-
-<div>
-<p class="test">
+<div align="center">
+<h1> 👨🏻‍💻 Hello! I'm Will</h1>
+<img src="https://github.com/The-Captain-William/The-Captain-William/blob/2955a12bb477e0ded73c2f074914efff296cb5f1/%E6%88%91%20%E6%98%AF%20%E8%BD%AF%20%E4%BB%B6%20%E5%B7%A5%20%E7%A8%8B%20%E5%B8%88.gif">
+<p align="center">
 Welcome to my profile! I'm a software engineer with a background in team mentorship, mathematics, and biology. <br> 
 I also love to doodle and design!
 </p>
+</div>
+<div>
 <p>
 
 <b>Education</b><br>
