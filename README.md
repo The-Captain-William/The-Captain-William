@@ -27,9 +27,16 @@ I also love to doodle and design!
 </p>
 </div>
 
+<b>Table of Contents</b>
+<ul>
+    <li><a href="#tools">My Tools and skills.</a></li>
+    <li><a href="#projects">My Projects.</a></li>
+    <li><a href="#connect">My Contact Info.</a></li>
+</ul>
+
 <div>
 
-<h1 align="center">Tools</h1>
+<h1 align="center" id="tools">Tools</h1>
 <br>
 <br>
 
@@ -177,7 +184,8 @@ This marks the beginning of my journey as a programmer and data engineer. It fee
 
 
 
-## Projects ↗
+
+<h2 id="projects">Projects ↗</h2>
 
 ### [Project 1: ETL Pipeline with Python and SQL](https://github.com/The-Captain-William/Per-Scholas-Capstone/tree/main#per-scholas-data-engineering-bootcamp-capstone-project)
 
@@ -193,9 +201,8 @@ This marks the beginning of my journey as a programmer and data engineer. It fee
 
 
 
-## Connect with me
-
-<a href="https://www.linkedin.com/in/the-captain-william/">
+<h2 id="connect">Connect with me!</h2>
+<a href="https://www.linkedin.com/in/the-captain-william/" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" width="100">
 </a>
 
