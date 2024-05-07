@@ -20,7 +20,7 @@ I also love to doodle and design!
 <b>Quick Facts about me and some of my skills:</b>    
 🎨 I love Blender 3D, and I'm familiar with Adobe Illustrator, Adobe Photoshop, and Canva. <br>
 💪🏻 I have 5+ years of experience communicating and diagnosing client needs and 3+ years of team leadership and mentorship. <br>
-🔭 I'm currently working on closed-source project management and a “second brain” application. <br>
+🔭 I'm currently working on a closed-source project management slash “second brain” application. <br>
 🖤 I enjoy collaborating and my line is always open. <br>
 😌 <em>I'm not politically correct or easily offended</em> so you'll never have to worry about me suing you over pronouns. 🤣 <br>
 🙏🏻 Feel free to reach out to me through LinkedIn or explore my GitHub repositories for more details about my projects and code samples. Thank you for visiting my profile!
