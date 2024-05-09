@@ -187,13 +187,19 @@ This marks the beginning of my journey as a programmer and data engineer. It fee
 
 ### [Project 1: ETL Pipeline with Python and SQL](https://github.com/The-Captain-William/Per-Scholas-Capstone/tree/main#per-scholas-data-engineering-bootcamp-capstone-project)
 
-- Developed an end-to-end ETL pipeline using Python, PySpark, and SQL, extracting data from various sources, performing data transformations, and loading it into a relational database.
-- Implemented efficient data processing techniques to handle large datasets, ensuring data integrity and accuracy.
-- Utilized SQL queries to optimize database performance and enhance query execution time.
-- Developed a Windows desktop application to view the dataset
+- Developed an end-to-end ETL pipeline using Python, PySpark, and SQL, extracting data from JSON, and CSV, performing data transformations, and loading it into a relational database on AWS.
+- Developed a Windows desktop application available as source code or as an EXE to view the dataset.
+- Developed SQL queries to optimize database performance and enhance query execution time.
+- Developed a shell script to automatically install a local instance of the database to test the desktop application with locally.
+  
 
-
-
+### [Project 2: Style-Complete lightweight marketing page for an island](https://github.com/The-Captain-William/Marketing-Page-for-Taniti-Island/tree/main)
+- Developed a lightweight and interactive landing page/ marketing website prototype for an island.
+- The site is fully responsive and contains aesthetic images, layouts, and copywriting written by myself.
+- Included in the repo is a PDF breakdown of:
+    - The ideal avatar/persona we are marketing to. 
+    - UI and UX feedback from users.
+- Also included are my original low-fidelity mockups constructed in Figma.
 
 
 
