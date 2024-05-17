@@ -183,23 +183,51 @@ This marks the beginning of my journey as a programmer and data engineer. It fee
 
 
 
-<h2 id="projects">Projects ↗</h2>
+<h1 id="projects">👇🏻 Projects</h1>
 
-### [Project 1: ETL Pipeline with Python and SQL](https://github.com/The-Captain-William/Per-Scholas-Capstone/tree/main#per-scholas-data-engineering-bootcamp-capstone-project)
+## Front-End
 
-- Developed an end-to-end ETL pipeline using Python, PySpark, and SQL, extracting data from JSON, and CSV, performing data transformations, and loading it into a relational database on AWS.
-- Developed a Windows desktop application available as source code or as an EXE to view the dataset.
-- Developed SQL queries to optimize database performance and enhance query execution time.
-- Developed a shell script to automatically install a local instance of the database to test the desktop application with locally.
-  
-
-### [Project 2: Style-Complete lightweight marketing page for an island](https://github.com/The-Captain-William/Marketing-Page-for-Taniti-Island/tree/main)
+### [Lightweight website and sales funnel for luxury island vacation package](https://github.com/The-Captain-William/Marketing-Page-for-Taniti-Island/tree/main) ⚠ LIVE! VIEW ONLINE
 - Developed a lightweight and interactive landing page/ marketing website prototype for an island.
 - The site is fully responsive and contains aesthetic images, layouts, and copywriting written by myself.
 - Included in the repo is a PDF breakdown of:
     - The ideal avatar/persona we are marketing to. 
     - UI and UX feedback from users.
 - Also included are my original low-fidelity mockups constructed in Figma.
+
+### [Major frontend re-write for pet consultation service](https://github.com/The-Captain-William/Paradigm-Pet-Professionals) ⚠ LIVE! VIEW ONLINE
+- Major re-write for a business website, going from web 1.0 non-responsive HTML pages to a new aesthetic neo-brutalist design.
+- The site is fully responsive and lightweight, written with HTML, CSS, and JS.
+- Included in the repo is a PDF breakdown of my project proposal and documentation on client and stakeholder needs.
+- Also included are my original low-fidelity mockups constructed in Figma. 
+
+
+
+## Database
+
+### [ETL within PostgreSQL - using PostgreSQL UDFs, triggers, and stored procedures ](https://github.com/The-Captain-William/stored-procedures-and-triggers-psql)
+- Created stored procedures to extract data, user-defined functions (UDFs) to transform data, and triggers to load data and update data. 
+    - stored procedures are modular and can update data in tables or create tables depending on how they are called.  
+- Wrote documentation on how to generate quarterly reports automatically with pgAgent Job, an automatic job scheduling tool.
+
+
+## Full-Stack
+
+### [Windows desktop application for bank employees](https://github.com/The-Captain-William/Per-Scholas-Capstone/tree/main#per-scholas-data-engineering-bootcamp-capstone-project)
+
+- Developed an end-to-end ETL pipeline using Python, PySpark, and SQL, extracting data from JSON, and CSV, performing data transformations, and loading it into a relational database on AWS.
+- Developed a Windows desktop application available as source code or as an EXE to view the dataset.
+- Developed SQL queries to optimize database performance and enhance query execution time.
+- Developed a shell script to automatically install a local instance of the database to test the desktop application locally.
+
+
+
+
+
+
+
+  
+
 
 
 
