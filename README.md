@@ -13,6 +13,7 @@ I also love to doodle and design!
 <b>Education</b><br>
 👨🏻‍💻 Bachelors in Software Engineering. <br>
 🔬 Associates in Science with an emphasis on biology, calculus (1-3), and calculus-based physics. <br>
+🤖 Masters Degree in Data Science and Machine Learning (expected 2025). <br>
 <br>
     
 <b>Quick Facts about me and some of my skills:</b>    
@@ -20,7 +21,6 @@ I also love to doodle and design!
 💪🏻 I have 5+ years of experience communicating and diagnosing client needs and 3+ years of team leadership and mentorship. <br>
 🔭 I'm currently working on a closed-source project management slash “second brain” application. <br>
 🖤 I enjoy collaborating and my line is always open. <br>
-😌 <em>I'm not politically correct or easily offended</em> so you'll never have to worry about me suing you over pronouns. 🤣 <br>
 🙏🏻 Feel free to reach out to me through LinkedIn or explore my GitHub repositories for more details about my projects and code samples. Thank you for visiting my profile!
 </p>
 </div>
