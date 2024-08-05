@@ -11,9 +11,9 @@ I also love to doodle and design!
 <p>
 
 <b>Education</b><br>
+🤖 Masters Degree in Data Science and Machine Learning (expected 2025). <br>
 👨🏻‍💻 Bachelors in Software Engineering. <br>
 🔬 Associates in Science with an emphasis on biology, calculus (1-3), and calculus-based physics. <br>
-🤖 Masters Degree in Data Science and Machine Learning (expected 2025). <br>
 <br>
     
 <b>Quick Facts about me and some of my skills:</b>    
